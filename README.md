@@ -1,7 +1,7 @@
-# Bootcamp-Inter-Dio
-Tópicos Estudados no Bootcamp.  
+# Bootcamp Inter Frontend Developer Dio
+Cursos Estudados no Bootcamp.  
 
-## Repositório para organização dos temas estudados no Bootcamp Inter Dio
+### Repositório para organização dos cursos estudados no Bootcamp Inter Frontend Developer Dio
 
-## Links 
+#### Links 
 [Acesso Dio](https://web.dio.me/lab/)
